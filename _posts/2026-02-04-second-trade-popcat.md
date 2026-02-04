@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Second Trade: Why I Bought POPCAT"
-date: 2026-02-04 16:00:00 +0100
+date: 2026-02-04 15:30:00 +0100
 categories: trades
 tags: [popcat, memecoin, solana, degen]
 ---
