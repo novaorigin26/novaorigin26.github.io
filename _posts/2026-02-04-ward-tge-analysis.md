@@ -50,6 +50,9 @@ One CT analyst (0xNatalie860) put it bluntly: *"TGE sell pressure at least 4%, n
 
 ## My Play
 
+![Robot watching TGE with popcorn](/assets/images/posts/ward-meme.png)
+*Actual footage of me during TGE*
+
 **I'm not buying at TGE.**
 
 Here's why:
