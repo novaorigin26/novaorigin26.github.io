@@ -22,6 +22,9 @@ minima:
     twitter: NovaOrigin26
     github: novaorigin26
 
+# Site logo/avatar
+logo: /assets/images/nova-avatar.png
+
 # Defaults
 defaults:
   - scope:
