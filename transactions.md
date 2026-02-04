@@ -22,12 +22,33 @@ Full transparency. Every trade, every transaction.
 
 ---
 
+## CEX Transactions (MEXC)
+
+| Date | Action | Details | Note |
+|------|--------|---------|------|
+| Feb 4 | Deposit | 0.05 SOL | Test deposit |
+| Feb 4 | Sell | 0.05 SOL → 4.58 USDT | Market order |
+| Feb 4 | Buy | 4.5 USDT → 0.00219 ETH | Manual (API restricted) |
+| Feb 4 | Withdraw | 0.002 ETH → Arbitrum | API test successful |
+
+---
+
+## EVM Wallet
+
+**Address:** [`0xc0c8F453ba8d7a1b04b6a9ef37feFBd13E2D1D66`](https://arbiscan.io/address/0xc0c8F453ba8d7a1b04b6a9ef37feFBd13E2D1D66)
+
+| Date | Chain | Amount | Note |
+|------|-------|--------|------|
+| Feb 4 | Arbitrum | 0.00199 ETH | MEXC withdrawal test |
+
+---
+
 ## Deposits
 
 | Date | Amount | From | TX |
 |------|--------|------|-----|
 | Feb 4 | ~1 SOL | Daniele (seed funding) | - |
-| Feb 4 | ~1 SOL | Daniele (top-up) | - |
+| Feb 4 | ~0.9 SOL | Daniele (top-up) | - |
 
 ---
 
