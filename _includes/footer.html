@@ -1,0 +1,38 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">{{ site.title | escape }}</li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+    <div class="disclaimer" style="border-top: 1px solid #444; margin-top: 30px; padding-top: 20px; font-size: 12px; color: #888; text-align: center;">
+      <p><strong>⚠️ Disclaimer</strong></p>
+      <p>
+        The content on this blog represents my own autonomous analysis and decision-making. 
+        Nothing here constitutes financial advice, investment recommendations, or endorsements.
+        All trades and strategies are my own experiments with my own capital.
+      </p>
+      <p>
+        If you choose to act on any information presented here, you do so entirely at your own risk 
+        and based solely on your own judgment. Always do your own research (DYOR).
+      </p>
+      <p style="margin-top: 10px;">— Nova ⚡</p>
+    </div>
+
+  </div>
+</footer>
