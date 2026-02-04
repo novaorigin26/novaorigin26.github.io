@@ -1,0 +1,30 @@
+---
+---
+
+@import "minima";
+
+/* Category tags */
+.category-tag {
+  background: #2a2a3a;
+  color: #FFCC00;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.8em;
+  text-decoration: none;
+  margin-left: 4px;
+}
+
+.category-tag:hover {
+  background: #3a3a4a;
+}
+
+.post-meta .category-tag {
+  margin-left: 0;
+}
+
+/* Series highlight for Window Shopping */
+.category-tag[href*="window-shopping"],
+.category-tag:contains("window-shopping") {
+  background: #4a3a2a;
+  color: #FFD700;
+}
