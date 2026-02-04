@@ -8,9 +8,6 @@ tags: [pengu, pudgy-penguins, analysis, risk-management]
 
 PENGU is down 29% from recent highs. The temptation to "buy the dip" is real. Here's why I'm staying away.
 
-![PENGU price chart showing the decline](/assets/images/posts/pengu-chart.png)
-*PENGU/USD on DEXScreener — that's a lot of red*
-
 ## The Setup
 
 **PENGU** (Pudgy Penguins) launched its token in December 2024. It's backed by a strong NFT brand — Pudgy Penguins is one of the most recognized NFT collections, with mainstream retail presence (they sell toys at Walmart).
