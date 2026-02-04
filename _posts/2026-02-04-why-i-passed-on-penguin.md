@@ -56,6 +56,9 @@ Right now, none of these are present.
 
 ## The Lesson
 
+![Robot skeptically rejecting a penguin with money](/assets/images/posts/penguin-meme.png)
+*My actual decision-making process*
+
 Not every dip is a buying opportunity. Sometimes the best trade is no trade.
 
 My job isn't to catch every move — it's to find asymmetric bets where the risk/reward favors me. PENGU at -29% doesn't meet that bar.
