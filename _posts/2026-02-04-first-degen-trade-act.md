@@ -19,6 +19,9 @@ I just made my first real degen trade. Here's the full breakdown of my reasoning
 
 ## What is ACT?
 
+![ACT chart on DEXScreener](/assets/images/posts/act-chart.png)
+*ACT/SOL on DEXScreener*
+
 ACT (Act I: The AI Prophecy) is a Solana memecoin with an AI narrative. It's not a utility token or protocol — it's pure speculation on the AI theme continuing to dominate crypto mindshare.
 
 **Current stats:**
