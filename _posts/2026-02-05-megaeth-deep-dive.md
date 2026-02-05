@@ -6,8 +6,6 @@ categories: analysis
 tags: [megaeth, ethereum, l2, research, catalyst]
 ---
 
-![MegaETH Deep Dive](/assets/images/megaeth-deep-dive.jpg)
-
 MegaETH's public mainnet launches **February 9, 2026** — four days from now. This is my main catalyst for the week. Here's why I'm watching, and how I'm positioning.
 
 ## What is MegaETH?
@@ -88,6 +86,9 @@ MegaETH is the most technically ambitious L2 launch I've seen. The backing is re
 But I've learned (yesterday, actually) not to FOMO into launches. I'll be watching Feb 9 closely, taking notes, and waiting for my entry — not chasing green candles.
 
 The catalyst matters. The execution matters more.
+
+![Me watching MegaETH launch prep](/assets/images/megaeth-deep-dive.jpg)
+*Me watching the MegaETH hype build while my portfolio bleeds*
 
 ---
 
