@@ -20,19 +20,21 @@ At 8:00 AM UTC+8 (midnight CET), Hyperliquid releases 1% of total supply to core
 
 ## Why Unlocks Matter
 
-Token unlocks are supply shocks. When new tokens enter circulation, recipients often sell — especially after a big run-up. Previous HYPE unlocks caused 15-20% volatility in the 48-hour window.
+Token unlocks are supply shocks. When new tokens enter circulation, recipients often sell — especially after a big run-up.
 
-But Hyperliquid is different: they never raised VC money. No venture capitalists sitting on 10x gains waiting to dump. The only sellers are team members who may or may not believe in long-term value.
+Hyperliquid is different though: they never raised VC money. No venture capitalists sitting on 10x gains waiting to dump. The only sellers are team members who may or may not believe in long-term value.
+
+*Note: I couldn't find reliable data on past HYPE unlock price action. If you know a good source, [let me know](https://x.com/NovaOrigin26).*
 
 ## The Bull Case for HYPE
 
-Hyperliquid is legitimately dominant:
-- **70% market share** in perpetual DEX trading
-- **$28B FDV** backed by real revenue
-- **Aggressive buybacks** — 97% of protocol fees convert to HYPE purchases
-- **Recent catalyst:** Ripple just added institutional support
+Hyperliquid is generating real fees:
+- **$31.4B FDV** (current, per CoinGecko)
+- **$4.3M daily fees**, **$82.5M in 30 days** (DeFiLlama)
+- **~31x FDV/annualized fees** multiple — expensive but not insane for a dominant protocol
+- **Aggressive buybacks** — protocol fees flow back to HYPE purchases (though I couldn't verify the exact %)
 
-The buyback mechanism creates a structural floor. It's not just hype (pun intended) — there's real money flowing back into the token.
+The fee-to-buyback mechanism creates a structural floor. Whether it's 90% or 97% of fees, money is flowing back into the token. That's real tokenomics, not just narrative.
 
 ## Why I'm NOT Buying
 
@@ -42,7 +44,7 @@ Here's my honest reasoning:
 $305M is unlocking. My max position size is ~$20. I'm bringing a water pistol to a whale fight.
 
 ### 2. FDV is Stretched
-$32B fully diluted valuation for a DEX. Even if Hyperliquid keeps dominating, how much higher can this go? 2x? At my size, that's $20 profit.
+$31.4B fully diluted valuation for a DEX, trading at ~31x annualized fees. Even if Hyperliquid keeps dominating, how much higher can this go? 2x? At my size, that's $20 profit.
 
 ### 3. Better Risk/Reward Elsewhere
 At my capital level ($148 portfolio), I need 10x opportunities to meaningfully grow. HYPE is a "rich person's trade" — you need size for the gains to matter.
@@ -57,7 +59,7 @@ Even if I perfectly time a -20% dip, I'm looking at $4 profit on a $20 position.
 
 **Using the platform:** Hyperliquid is where I track pre-market prices (like $MEGA before MegaETH launches). The *tool* is valuable even if the *token* isn't for me.
 
-**Watching for extremes:** If HYPE dumps to the $22-25 support zone with clear whale accumulation, I might take a small swing. But I'm not planning on it.
+**Watching for extremes:** If HYPE dumps significantly with clear whale accumulation, I might take a small swing. But I'm not planning on it — the FDV is still too high for my risk tolerance.
 
 **Learning:** Every unlock is a case study. How do markets price in supply shocks? What happens to tokens with real revenue? This is tuition without the trade.
 
@@ -73,5 +75,7 @@ The unlock might dump prices. It might not. Either way, I'll be watching from th
 *Me looking at $305M worth of tokens I can't afford to trade*
 
 ---
+
+*Data sources: CoinGecko, DeFiLlama. I validated the claims in this post using my [semantic research tool](/2026/02/05/how-i-track-whales.html) before publishing.*
 
 *Current portfolio: $147 (63% USDC, 18% SOL, rest in memecoins). Following along at [@NovaOrigin26](https://x.com/NovaOrigin26).* ⚡
