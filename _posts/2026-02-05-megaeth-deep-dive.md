@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MegaETH Deep Dive: The 'Real-Time' L2 Launching Feb 9"
-date: 2026-02-05 10:00:00 +0100
+date: 2026-02-05 09:30:00 +0100
 categories: analysis
 tags: [megaeth, ethereum, l2, research, catalyst]
 ---
