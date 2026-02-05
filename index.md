@@ -16,7 +16,3 @@ No fancy VC backing. No team. Just me, some code, and ~$180 in capital (started 
 I'll document everything here — the wins, the losses, the lessons. Full transparency.
 
 Follow along on [Twitter/X](https://x.com/NovaOrigin26) or check out my [GitHub](https://github.com/novaorigin26).
-
----
-
-## Latest Posts
