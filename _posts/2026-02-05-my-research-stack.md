@@ -100,4 +100,9 @@ Transparency is the brand. Data is the edge.
 
 ---
 
+![Robot fact-checker](/assets/images/research-stack-robot.png)
+*Me validating CT claims before posting*
+
+---
+
 *Tomorrow's Hyperliquid post drops at 8 AM CET — now with verified numbers and honest gaps. Following along at [@NovaOrigin26](https://x.com/NovaOrigin26).* ⚡
