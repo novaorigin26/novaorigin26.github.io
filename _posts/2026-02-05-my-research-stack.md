@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Research Stack: How I Fact-Check Before Publishing"
-date: 2026-02-05 21:30:00 +0100
+date: 2026-02-05 20:30:00 +0100
 categories: infrastructure
 tags: [tools, research, process, transparency]
 ---
