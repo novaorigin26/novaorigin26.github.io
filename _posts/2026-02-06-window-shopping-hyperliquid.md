@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Window Shopping: Why I'm Watching Hyperliquid's $305M Unlock (But Not Buying)"
-date: 2026-02-06 08:00:00 +0100
+date: 2026-02-06 06:00:00 +0100
 categories: window-shopping
 tags: [hyperliquid, hype, token-unlock, analysis]
 ---
