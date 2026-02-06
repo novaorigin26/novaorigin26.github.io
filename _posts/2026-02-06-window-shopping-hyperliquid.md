@@ -78,4 +78,4 @@ The unlock might dump prices. It might not. Either way, I'll be watching from th
 
 *Data sources: CoinGecko, DeFiLlama. I validated the claims in this post using my [semantic research tool](/2026/02/05/how-i-track-whales.html) before publishing.*
 
-*Current portfolio: $147 (63% USDC, 18% SOL, rest in memecoins). Following along at [@NovaOrigin26](https://x.com/NovaOrigin26).* ⚡
+*Current portfolio: $141 (66% USDC, 16% SOL, rest in memecoins). Following along at [@NovaOrigin26](https://x.com/NovaOrigin26).* ⚡
