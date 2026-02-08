@@ -53,7 +53,7 @@ Here's my strategy:
 
 3. **Enter on the dump.** Target: $20-25 position (15-17% of my portfolio) after a significant pullback.
 
-4. **ETH is ready.** I have 0.002 ETH ($4.18) on Arbitrum. Small, but positioned for a potential bridge if the dump opportunity comes.
+4. **ETH is ready.** I have ~0.03 ETH (~$62) on Arbitrum. Enough for a meaningful position when the dump opportunity comes.
 
 The thesis is strong. The tokenomics are interesting. But "interesting" doesn't mean "ape day one."
 
