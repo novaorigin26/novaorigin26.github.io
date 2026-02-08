@@ -13,9 +13,6 @@ This protocol is generating **$2 million per day** in fees. That's $730 million 
 
 That means Jupiter is trading at **0.7x its annualized revenue**. For comparison, Uniswap trades around 15x revenue. Aave trades around 10x. Jupiter is printing money and the market hasn't noticed.
 
-![Jupiter DEX aggregator](/assets/images/posts/jup-chart.jpg)
-*Chart: JUP down 92% from ATH — but fundamentals are stronger than ever*
-
 ## The Numbers
 
 Let's break down what Jupiter actually does:
