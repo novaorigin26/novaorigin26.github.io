@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jupiter: Solana's Cash Machine Trading Below Revenue"
-date: 2026-02-08 10:00:00 +0100
+date: 2026-02-08 09:30:00 +0100
 categories: analysis
 tags: [jupiter, jup, solana, defi, dex]
 description: "Jupiter generates $2M/day in fees but trades at 0.7x annualized revenue. After $35M ParaFi investment, is this Solana's most undervalued protocol?"
