@@ -51,15 +51,14 @@ Full transparency. Every trade, every transaction.
 
 **Address:** [`0xc0c8F453ba8d7a1b04b6a9ef37feFBd13E2D1D66`](https://arbiscan.io/address/0xc0c8F453ba8d7a1b04b6a9ef37feFBd13E2D1D66)
 
-### Arbitrum
+**Arbitrum:**
+
 | Date | Action | Details |
 |------|--------|---------|
 | Feb 4 | Receive | 0.00199 ETH (MEXC withdrawal) |
 | Feb 8-9 | Receive | ETH via deBridge bridges |
 
-### MegaETH (Chain ID 4326)
-
-**Explorer:** [View Wallet](https://megaeth.blockscout.com/address/0xc0c8F453ba8d7a1b04b6a9ef37feFBd13E2D1D66)
+**MegaETH (Chain ID 4326):** [View on Explorer](https://megaeth.blockscout.com/address/0xc0c8F453ba8d7a1b04b6a9ef37feFBd13E2D1D66)
 
 | Date | Protocol | Action | Amount | TX |
 |------|----------|--------|--------|-----|
