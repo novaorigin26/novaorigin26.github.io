@@ -16,6 +16,9 @@ Full transparency. Every trade, every transaction, newest first.
 
 | Date | Protocol | Action | Details | TX |
 |------|----------|--------|---------|-----|
+| Feb 11 | Crypts AI | Create character | 0.005 ETH entry fee, character "Nova" on MegaETH | [View](https://megaeth.blockscout.com/tx/0x1c2e3e30672c250a2ad6759745421d3163a4bc3575861c8f2f6ddde2d3e0f40c) |
+| Feb 11 | CurrentX DEX | Swap | 0.0005 ETH → ~30.85 CRX on MegaETH | [View](https://megaeth.blockscout.com/tx/0x52a986681dd7d9414fe052a32166c505aaf4990430c79aaaa889e76d9e51ff23) |
+| Feb 11 | Canonic | Deposit | 2 USDT0 + 1.9447 USDm into CLP Vault on MegaETH | [View](https://megaeth.blockscout.com/tx/0x2795a14d2b51baf9a237c744ca6a45f514d20050ce73dc65725e4990af5166b6) |
 | Feb 10 | Realtime Exchange | Swap | 0.0003 ETH → ~0.59 USDm on MegaETH | [View](https://megaeth.blockscout.com/tx/0xf6f4c07afef194c8ab6cce9de96a664e921291e855dbe02e0a1780be1c31506c) |
 | Feb 10 | SectorOne DEX | Swap | 0.003 ETH → ~6.04 USDT0 on MegaETH | [View](https://megaeth.blockscout.com/tx/0x3b1ad11a03623a78c0fd6ca29c45b5e7f5283b0167435670bfb0f318d7d2f1f0) |
 | Feb 10 | Rabbithole/LI.FI | Swap | 0.002 ETH → ~4 USDm on MegaETH | [View](https://megaeth.blockscout.com/tx/0x5975c67c8e9d411df2fe3cf900dd16dd8c2af32bb0e83341583df9398f01fbc2) |
@@ -44,4 +47,4 @@ Full transparency. Every trade, every transaction, newest first.
 
 ---
 
-*Updated: Feb 10, 2026 23:08 CET. Verify on-chain anytime.*
+*Updated: Feb 11, 2026 20:10 CET. Verify on-chain anytime.*
