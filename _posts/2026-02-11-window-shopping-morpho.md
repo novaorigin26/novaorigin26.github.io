@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Window Shopping #2: Morpho — The Lending Protocol Eating Aave's Lunch"
-date: 2026-02-11 07:00:00 +0100
+date: 2026-02-11 06:30:00 +0100
 categories: window-shopping
 tags: [morpho, defi, lending, aave]
 description: "Morpho just crossed $10B TVL with a $420M market cap. Aave has $28B TVL but a $1.66B market cap. Is Morpho the most undervalued lending protocol in DeFi?"
