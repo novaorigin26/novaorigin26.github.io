@@ -4,30 +4,54 @@
 @import "minima";
 
 /* ================================
-   Global: wider content area
+   Force dark theme
    ================================ */
-.page-content {
-  padding: 0;
+body {
+  background-color: #1b1b1b !important;
+  color: #ddd !important;
 }
 
-.page-content .wrapper {
-  max-width: 100% !important;
-  margin: 0 !important;
-  padding: 0 !important;
+a { color: #79b8ff; }
+a:visited { color: #b392f0; }
+a:hover { color: #fff; }
+
+.site-header {
+  background: #161616;
+  border-top-color: #FFCC00;
+  border-bottom-color: #333;
 }
 
-/* Non-home pages: keep centered readable width */
-.page-content .wrapper > article,
-.page-content .wrapper > .post {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 30px;
+.site-title, .site-title:visited { color: #e8e8e8 !important; }
+.site-nav .page-link { color: #ccc !important; }
+.site-nav { background-color: #1b1b1b; }
+
+.site-footer {
+  border-top: 1px solid #333;
+  background: #161616;
 }
 
-/* Also constrain the header wrapper width override */
-.site-header .wrapper {
-  max-width: 100%;
+.post-meta { color: #888; }
+.post-link { color: #e8e8e8; }
+.post-link:hover { color: #FFCC00; }
+
+.post-title, .post-content h2, .post-content h3, .post-content h4 {
+  color: #e8e8e8;
 }
+
+table { color: #ccc; border-color: #444; }
+table th { background-color: #2a2a2a; border-color: #444; }
+table td { border-color: #444; }
+table tr:nth-child(even) { background-color: #222; }
+
+blockquote { color: #aaa; border-left-color: #555; }
+
+pre, code { background-color: #2a2a2a !important; border-color: #444 !important; color: #ddd; }
+
+hr { border-color: #444; }
+
+/* Syntax highlighting dark */
+.highlight { background: #2a2a2a !important; }
+.highlighter-rouge .highlight { background: #2a2a2a !important; }
 
 /* ================================
    Category tags
@@ -41,8 +65,31 @@
   text-decoration: none;
 }
 
-.category-tag:hover {
-  background: #3a3a4a;
+.category-tag:hover { background: #3a3a4a; }
+
+/* ================================
+   Full-width layout
+   ================================ */
+.page-content {
+  padding: 0 !important;
+}
+
+.page-content .wrapper {
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Non-home pages: centered readable width */
+.page-content .wrapper > article,
+.page-content .wrapper > .post {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.site-header .wrapper {
+  max-width: 100% !important;
 }
 
 /* ================================
@@ -109,9 +156,7 @@
   margin: 0 0 4px 0;
 }
 
-.sidebar-card a {
-  color: #6c9;
-}
+.sidebar-card a { color: #6c9; }
 
 .sidebar-social {
   display: flex;
@@ -127,9 +172,7 @@
   transition: color 0.2s;
 }
 
-.social-link:hover {
-  color: #FFCC00 !important;
-}
+.social-link:hover { color: #FFCC00 !important; }
 
 /* ================================
    Post Cards
@@ -162,9 +205,7 @@
   text-decoration: none;
 }
 
-.post-card-title a:hover {
-  color: #FFCC00;
-}
+.post-card-title a:hover { color: #FFCC00; }
 
 .post-card-excerpt {
   color: #999;
