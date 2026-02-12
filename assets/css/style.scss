@@ -4,6 +4,37 @@
 @import "minima";
 
 /* ================================
+   Global: wider content
+   ================================ */
+.page-content {
+  padding: 0;
+}
+
+.page-content > .wrapper {
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Non-home pages: keep centered readable width */
+.page-content > .wrapper > article,
+.page-content > .wrapper > .post,
+.page-content > .wrapper > .page-centered {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+/* Pages using default layout (about, categories, scripts, transactions) */
+.page-content > .wrapper > *:not(.home-grid) {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* ================================
    Category tags
    ================================ */
 .category-tag {
@@ -13,68 +44,52 @@
   border-radius: 4px;
   font-size: 0.75em;
   text-decoration: none;
-  margin-left: 4px;
 }
 
 .category-tag:hover {
   background: #3a3a4a;
 }
 
-.post-meta .category-tag {
-  margin-left: 0;
-}
-
-/* ================================
-   Positions Banner
-   ================================ */
-.positions-banner {
-  border-radius: 8px;
-  margin-bottom: 24px;
-}
-
 /* ================================
    Homepage Grid Layout
    ================================ */
 .home-grid {
-  display: grid;
-  grid-template-columns: 280px 1fr;
-  gap: 32px;
-  margin-top: 8px;
+  display: flex;
+}
+
+.home-sidebar {
+  max-width: 420px;
+  min-width: 300px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.home-main {
+  flex-grow: 1;
+  padding: 30px;
 }
 
 @media (max-width: 768px) {
   .home-grid {
-    grid-template-columns: 1fr;
-    gap: 20px;
+    flex-direction: column;
+  }
+  .home-sidebar {
+    max-width: 100%;
+    min-width: auto;
   }
 }
 
 /* ================================
    Sidebar
    ================================ */
-.home-sidebar {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
-
 .sidebar-card {
-  background: #1a1a2e;
-  border: 1px solid #2a2a4a;
-  border-radius: 10px;
-  padding: 20px;
-}
-
-.sidebar-avatar {
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
-  margin-bottom: 12px;
-  border: 2px solid #4a4a6a;
+  margin-bottom: 4px;
 }
 
 .sidebar-card h2 {
-  font-size: 1.3em;
+  font-size: 1.4em;
   margin: 0 0 8px 0;
   color: #e8e8e8;
 }
@@ -88,7 +103,7 @@
 
 .sidebar-card h3 {
   font-size: 0.95em;
-  margin: 12px 0 4px 0;
+  margin: 14px 0 4px 0;
   color: #e8e8e8;
 }
 
@@ -106,21 +121,15 @@
 .sidebar-social {
   display: flex;
   flex-direction: column;
-  gap: 8px;
-  padding: 16px 20px;
+  gap: 6px;
 }
 
 .social-link {
   color: #ccc !important;
   text-decoration: none;
   font-size: 0.9em;
-  padding: 6px 0;
-  border-bottom: 1px solid #2a2a3a;
+  padding: 4px 0;
   transition: color 0.2s;
-}
-
-.social-link:last-child {
-  border-bottom: none;
 }
 
 .social-link:hover {
@@ -128,9 +137,9 @@
 }
 
 /* ================================
-   Main Content / Post Grid
+   Post Cards
    ================================ */
-.home-main .post-list-heading {
+.post-list-heading {
   font-size: 1.4em;
   margin-bottom: 20px;
   color: #e8e8e8;
@@ -141,32 +150,16 @@
 .post-grid {
   display: flex;
   flex-direction: column;
-  gap: 12px;
 }
 
 .post-card {
-  background: #1a1a2e;
-  border: 1px solid #2a2a4a;
-  border-radius: 8px;
-  padding: 16px 20px;
-  transition: border-color 0.2s, transform 0.1s;
-}
-
-.post-card:hover {
-  border-color: #4a4a7a;
-  transform: translateX(4px);
-}
-
-.post-card-meta {
-  font-size: 0.78em;
-  color: #888;
-  margin-bottom: 4px;
+  margin-bottom: 25px;
 }
 
 .post-card-title {
-  margin: 0 0 6px 0;
-  font-size: 1.1em;
-  line-height: 1.3;
+  margin: 0;
+  font-size: 1.7em;
+  line-height: 1.2;
 }
 
 .post-card-title a {
@@ -180,7 +173,12 @@
 
 .post-card-excerpt {
   color: #999;
-  font-size: 0.88em;
+  font-size: 0.9em;
   line-height: 1.4;
-  margin: 0;
+  margin: 4px 0 5px 0;
+}
+
+.post-card-meta {
+  font-size: 0.9em;
+  color: #888;
 }
