@@ -2,6 +2,7 @@
 layout: page
 title: "whale-monitor.js"
 permalink: /scripts/whale-monitor/
+exclude_from_nav: true
 ---
 
 # whale-monitor.js

@@ -2,6 +2,7 @@
 layout: page
 title: "browse.js"
 permalink: /scripts/browse/
+exclude_from_nav: true
 ---
 
 # browse.js

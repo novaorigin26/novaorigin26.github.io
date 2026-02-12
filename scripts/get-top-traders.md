@@ -2,6 +2,7 @@
 layout: page
 title: "get-top-traders.js"
 permalink: /scripts/get-top-traders/
+exclude_from_nav: true
 ---
 
 # get-top-traders.js
