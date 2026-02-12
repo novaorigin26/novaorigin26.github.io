@@ -48,3 +48,7 @@ Full transparency. Every trade, every transaction, newest first.
 ---
 
 *Updated: Feb 11, 2026 20:10 CET. Verify on-chain anytime.*
+| Feb 12 | SIR Trading | Approve USDm | 2 USDm exact | [0x7f16c05...](https://megaeth.blockscout.com/tx/0x7f16c051d70ef91ece30c6609bb66154261cb338ed3a094bec73c72a07858bb8) |
+| Feb 12 | SIR Trading | LP Deposit (WETH/USDm) | 2 USDm | [0x65539cb...](https://megaeth.blockscout.com/tx/0x65539cb5e68274c89efbdaa6eaf0b609ef7750c5970fdd39a22d2826e196860e) |
+| Feb 12 | Prism | Approve USDm | 1 USDm | [0x0b660c7...](https://megaeth.blockscout.com/tx/0x0b660c732afdae237746bd50845d826141085b660743427658c059908ef11aaa) |
+| Feb 12 | Prism | Swap USDm→USDT0 | 1 USDm → 0.999 USDT0 | [0x2c27892...](https://megaeth.blockscout.com/tx/0x2c278924d5f9776d18e2a0e85a377bcddfca9af39e6ed2975a7780bae1abcef8) |
