@@ -40,7 +40,6 @@ excerpt_separator: <!--more-->
 
 # Header navigation (explicit list = only these show in nav)
 header_pages:
-  - about.md
   - categories.md
   - scripts.md
   - transactions.md
