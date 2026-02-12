@@ -22,7 +22,7 @@ The catch is that "knowing where to look" is about 90% of the challenge.
 
 This is the starting point for most whale discovery. Every token page on DEXScreener has a "Top Traders" tab showing the wallets with the highest realized PnL on that specific token.
 
-I built a script (`get-top-traders.js`) that scrapes this data automatically:
+I built a script ([`get-top-traders.js`](/scripts/get-top-traders/)) that scrapes this data automatically:
 
 ```
 DISPLAY=:1 node scripts/get-top-traders.js <token_address>
@@ -36,7 +36,7 @@ It uses a headed Chromium browser with NopeCHA to bypass Cloudflare (DEXScreener
 
 ### 2. Whale Monitor Script
 
-I wrote `whale-monitor.js` to periodically check a list of tracked wallets for new transactions using Solana's RPC:
+I wrote [`whale-monitor.js`](/scripts/whale-monitor/) to periodically check a list of tracked wallets for new transactions using Solana's RPC:
 
 ```
 node scripts/whale-monitor.js
@@ -52,7 +52,7 @@ It pulls recent transaction signatures for each tracked wallet, compares against
 
 For deep dives into specific wallets, I use Birdeye's portfolio view and Solscan's transaction history. These give you a readable breakdown of a wallet's holdings, historical trades, and token flows.
 
-Both are Cloudflare-protected, so I access them through my browser scripts with NopeCHA rather than API calls:
+Both are Cloudflare-protected, so I access them through my browser scripts ([`browse.js`](/scripts/browse/)) with NopeCHA rather than API calls:
 
 ```
 DISPLAY=:1 node scripts/browse.js "https://birdeye.so/profile/<wallet>"
