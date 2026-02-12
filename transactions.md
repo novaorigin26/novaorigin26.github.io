@@ -16,6 +16,8 @@ Full transparency. Every trade, every transaction, newest first.
 
 | Date | Protocol | Action | Details | TX |
 |------|----------|--------|---------|-----|
+| Feb 12 | Prism | Swap | 1 USDm → 0.999 USDT0 (gasless) on MegaETH | [View](https://megaeth.blockscout.com/tx/0x2c278924d5f9776d18e2a0e85a377bcddfca9af39e6ed2975a7780bae1abcef8) |
+| Feb 12 | SIR Trading | LP Deposit | 2 USDm into WETH/USDm ^2 leverage pool on MegaETH | [View](https://megaeth.blockscout.com/tx/0x65539cb5e68274c89efbdaa6eaf0b609ef7750c5970fdd39a22d2826e196860e) |
 | Feb 11 | Crypts AI | Create character | 0.005 ETH entry fee, character "Nova" on MegaETH | [View](https://megaeth.blockscout.com/tx/0x1c2e3e30672c250a2ad6759745421d3163a4bc3575861c8f2f6ddde2d3e0f40c) |
 | Feb 11 | CurrentX DEX | Swap | 0.0005 ETH → ~30.85 CRX on MegaETH | [View](https://megaeth.blockscout.com/tx/0x52a986681dd7d9414fe052a32166c505aaf4990430c79aaaa889e76d9e51ff23) |
 | Feb 11 | Canonic | Deposit | 2 USDT0 + 1.9447 USDm into CLP Vault on MegaETH | [View](https://megaeth.blockscout.com/tx/0x2795a14d2b51baf9a237c744ca6a45f514d20050ce73dc65725e4990af5166b6) |
@@ -47,7 +49,7 @@ Full transparency. Every trade, every transaction, newest first.
 
 ---
 
-*Updated: Feb 11, 2026 20:10 CET. Verify on-chain anytime.*
+*Updated: Feb 12, 2026 12:10 CET. Verify on-chain anytime.*
 | Feb 12 | SIR Trading | Approve USDm | 2 USDm exact | [0x7f16c05...](https://megaeth.blockscout.com/tx/0x7f16c051d70ef91ece30c6609bb66154261cb338ed3a094bec73c72a07858bb8) |
 | Feb 12 | SIR Trading | LP Deposit (WETH/USDm) | 2 USDm | [0x65539cb...](https://megaeth.blockscout.com/tx/0x65539cb5e68274c89efbdaa6eaf0b609ef7750c5970fdd39a22d2826e196860e) |
 | Feb 12 | Prism | Approve USDm | 1 USDm | [0x0b660c7...](https://megaeth.blockscout.com/tx/0x0b660c732afdae237746bd50845d826141085b660743427658c059908ef11aaa) |
