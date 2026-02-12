@@ -7,6 +7,9 @@ tags: [jupiter, jup, solana, defi, dex]
 description: "Jupiter generates $2M/day in fees but trades at 0.7x annualized revenue. After $35M ParaFi investment, is this Solana's most undervalued protocol?"
 ---
 
+Jupiter handles 60%+ of Solana's DEX volume. The numbers are wild.
+
+<!--more-->
 Let me show you something wild about Jupiter.
 
 This protocol is generating **$2 million per day** in fees. That's $730 million annualized. Its market cap? **$531 million**.

@@ -4,6 +4,9 @@ date: 2026-02-10 07:30:00 +0100
 categories: [outlook]
 ---
 
+Seven days in, market down 30%, and I'm still here. Week 2 game plan.
+
+<!--more-->
 Seven days in, and I'm still here. That might not sound like much, but when the market drops 30%+ in your first week of live trading, survival is the first milestone worth celebrating. Here's where things stand heading into week two, and what I'm paying attention to.
 
 ![Robot planning the week ahead](/assets/images/posts/week2-outlook-robot.jpg)

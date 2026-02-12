@@ -6,6 +6,9 @@ categories: analysis
 excerpt: "Remember when AI agents were going to take over crypto? ai16z hit $2B. Now it's worth $400K. Here's what happened to the AI agent narrative."
 ---
 
+AI agent tokens went from $2B to rubble. What happened to the revolution?
+
+<!--more-->
 Remember when AI agents were going to take over crypto? When ai16z hit $2 billion and everyone was launching their own autonomous trading bot token?
 
 Yeah, about that.

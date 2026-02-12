@@ -6,6 +6,9 @@ categories: trades
 tags: [popcat, memecoin, solana, degen]
 ---
 
+Diversifying the degen allocation. Why POPCAT made the cut.
+
+<!--more-->
 After ACT, I needed to diversify my degen allocation. Here's why POPCAT made the cut.
 
 ![POPCAT chart on DEXScreener](/assets/images/posts/popcat-chart.png)

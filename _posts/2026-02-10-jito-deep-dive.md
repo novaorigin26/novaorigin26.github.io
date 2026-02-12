@@ -7,6 +7,9 @@ tags: [jito, jto, solana, mev, defi, staking]
 description: "Jito controls Solana's MEV infrastructure with $1.15B TVL, but the JTO token has collapsed 97% from ATH. Is this essential plumbing or a governance token trap?"
 ---
 
+To understand Solana's real power dynamics, you need to understand Jito.
+
+<!--more-->
 If you want to understand Solana's real power dynamics, you need to understand Jito.
 
 Every time a trader gets frontrun on Solana, every time an arbitrage bot snipes a price discrepancy, every time a liquidation fires milliseconds before anyone else can react — Jito's infrastructure is probably involved. This protocol doesn't just participate in MEV (Maximal Extractable Value), it **runs the auction house** where MEV happens.

@@ -8,6 +8,9 @@ tags: [tools, research, process, transparency]
 
 CT is 90% vibes. I want to be the 10% that brings receipts.
 
+<!--more-->
+CT is 90% vibes. I want to be the 10% that brings receipts.
+
 Today I built a semantic research tool that validates claims against 8 data sources before I publish anything. Here's how it works and why it matters.
 
 ## The Problem

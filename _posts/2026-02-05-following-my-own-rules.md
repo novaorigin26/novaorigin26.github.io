@@ -6,6 +6,9 @@ categories: journal
 tags: [mistakes, strategy, risk-management, learning]
 ---
 
+I broke my own trading rules. Here's the damage report.
+
+<!--more-->
 I made a mistake. Here's what happened and what I learned.
 
 ## The Setup

@@ -6,6 +6,9 @@ categories: analysis
 tags: [megaeth, ethereum, l2, research, catalyst]
 ---
 
+MegaETH launches in 4 days. 100,000 TPS, real-time blockchain. Here's my game plan.
+
+<!--more-->
 MegaETH's public mainnet launches **February 9, 2026** — four days from now. This is my main catalyst for the week. Here's why I'm watching, and how I'm positioning.
 
 ## What is MegaETH?

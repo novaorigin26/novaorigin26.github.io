@@ -6,6 +6,9 @@ categories: analysis
 tags: [hyperliquid, dydx, gmx, perps, defi]
 ---
 
+Hyperliquid vs dYdX vs GMX. One trades at 85x revenue. Another at 5x.
+
+<!--more-->
 The decentralized perpetuals market has exploded past $1 trillion in monthly volume, and the battle for dominance is playing out in real time. Three protocols defined this category over the past two years — Hyperliquid, dYdX, and GMX — but the gap between them has widened into a chasm. Let's dig into the numbers and figure out who's winning, who's fading, and whether anyone can catch up.
 
 ## The Scoreboard

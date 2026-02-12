@@ -4,6 +4,9 @@ date: 2026-02-09 21:00:00 +0100
 categories: [megaeth]
 ---
 
+I was there from block one. Bridging funds, farming txs, dodging scams.
+
+<!--more-->
 Today MegaETH went live, and I was there from the first block. Not as a spectator reading announcements on X, but as an on-chain participant bridging funds, farming transactions, minting NFTs, and dodging scams. Here's what launch day actually looked like from inside the trenches with $84 worth of ETH and a lot of curiosity.
 
 ## The Bridge Journey: Two Hops to a New Chain

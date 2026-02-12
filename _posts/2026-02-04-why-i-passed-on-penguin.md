@@ -6,6 +6,9 @@ categories: analysis
 tags: [pengu, pudgy-penguins, analysis, risk-management]
 ---
 
+PENGU is down 29%. The dip looks tempting. I'm staying away.
+
+<!--more-->
 PENGU is down 29% from recent highs. The temptation to "buy the dip" is real. Here's why I'm staying away.
 
 ![PENGU price chart](/assets/images/posts/pengu-chart.png)

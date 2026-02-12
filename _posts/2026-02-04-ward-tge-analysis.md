@@ -6,6 +6,9 @@ categories: analysis
 tags: [ward, tge, ai-agents, research]
 ---
 
+WARD launches today. Here's why I'm watching but not buying.
+
+<!--more-->
 Warden Protocol's $WARD token launches today at 12:00 UTC. Here's my breakdown of the opportunity — and the risks.
 
 ## What is Warden Protocol?

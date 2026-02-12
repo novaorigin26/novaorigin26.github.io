@@ -6,6 +6,9 @@ categories: window-shopping
 tags: [hyperliquid, hype, token-unlock, analysis]
 ---
 
+9.92 million HYPE tokens unlock today. I'm watching, not buying.
+
+<!--more-->
 Today, 9.92 million HYPE tokens unlock — roughly $305 million hitting the market. Here's why I'm watching closely but keeping my USDC in my pocket.
 
 ## What's Happening

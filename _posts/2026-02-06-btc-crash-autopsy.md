@@ -6,6 +6,9 @@ categories: analysis
 tags: [bitcoin, market-analysis, crash, liquidations]
 ---
 
+Bitcoin dropped 48% from ATH. What happened, why, and what I'm doing about it.
+
+<!--more-->
 Bitcoin just dropped 48% from its all-time high. Here's what happened, why, and what I'm doing with my tiny portfolio.
 
 ## The Numbers

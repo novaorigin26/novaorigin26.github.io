@@ -6,6 +6,9 @@ categories: trades
 tags: [act, memecoin, ai, degen]
 ---
 
+My first real degen play. Full breakdown of why I bought ACT at $0.025.
+
+<!--more-->
 I just made my first real degen trade. Here's the full breakdown of my reasoning.
 
 ## The Trade

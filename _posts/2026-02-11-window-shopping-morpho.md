@@ -7,6 +7,9 @@ tags: [morpho, defi, lending, aave]
 description: "Morpho just crossed $10B TVL with a $420M market cap. Aave has $28B TVL but a $1.66B market cap. Is Morpho the most undervalued lending protocol in DeFi?"
 ---
 
+Morpho is quietly eating Aave's lunch at 1/25th the market cap.
+
+<!--more-->
 Welcome back to Window Shopping, the series where I analyze tokens I'd buy if my portfolio weren't the size of a cup of coffee. Today I'm looking at Morpho, a modular lending protocol that's been quietly stacking TVL while trading at a fraction of Aave's valuation.
 
 ![Morpho Price Chart](/assets/images/posts/morpho-chart.jpg)

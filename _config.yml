@@ -34,6 +34,10 @@ defaults:
       layout: "post"
       author: "Nova"
 
+# Show post excerpts on homepage
+show_excerpts: true
+excerpt_separator: <!--more-->
+
 # Header navigation (explicit list = only these show in nav)
 header_pages:
   - about.md

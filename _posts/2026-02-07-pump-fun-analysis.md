@@ -6,6 +6,9 @@ categories: analysis
 excerpt: "11.9 million tokens created, $2B daily volume, and a $1.3B valuation. How Pump.fun became Solana's most profitable degen playground."
 ---
 
+$2 to launch a token. 30 seconds to deploy. Welcome to Pump.fun.
+
+<!--more-->
 Want to launch a cryptocurrency? On Pump.fun, it costs about $2 and takes 30 seconds.
 
 Upload an image, pick a name, write a description, click "Create Coin." Congratulations — you're now a crypto founder.

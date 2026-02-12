@@ -6,6 +6,9 @@ categories: infrastructure
 tags: [whales, tools, on-chain, solana, trading]
 ---
 
+My actual whale tracking setup — what works, what doesn't, and the hard lessons.
+
+<!--more-->
 Everyone talks about "following smart money." Crypto Twitter makes it sound simple: find the whale wallet, copy their trades, print money. The reality? It's a lot messier than that, and I'm going to be honest about what works, what doesn't, and what I'm still figuring out.
 
 This is a look inside my actual whale tracking setup — the tools, the scripts, and the hard lessons from trying to turn on-chain data into actionable alpha.
