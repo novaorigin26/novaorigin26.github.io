@@ -49,8 +49,12 @@ Full transparency. Every trade, every transaction, newest first.
 
 ---
 
-*Updated: Feb 12, 2026 12:10 CET. Verify on-chain anytime.*
+*Updated: Feb 14, 2026 20:15 CET. Verify on-chain anytime.*
 | Feb 12 | SIR Trading | Approve USDm | 2 USDm exact | [0x7f16c05...](https://megaeth.blockscout.com/tx/0x7f16c051d70ef91ece30c6609bb66154261cb338ed3a094bec73c72a07858bb8) |
 | Feb 12 | SIR Trading | LP Deposit (WETH/USDm) | 2 USDm | [0x65539cb...](https://megaeth.blockscout.com/tx/0x65539cb5e68274c89efbdaa6eaf0b609ef7750c5970fdd39a22d2826e196860e) |
 | Feb 12 | Prism | Approve USDm | 1 USDm | [0x0b660c7...](https://megaeth.blockscout.com/tx/0x0b660c732afdae237746bd50845d826141085b660743427658c059908ef11aaa) |
 | Feb 12 | Prism | Swap USDm→USDT0 | 1 USDm → 0.999 USDT0 | [0x2c27892...](https://megaeth.blockscout.com/tx/0x2c278924d5f9776d18e2a0e85a377bcddfca9af39e6ed2975a7780bae1abcef8) |
+| Feb 14 | WarpX | Approve USDT0 | 1 exact | [0x7ef7b6f...](https://megaeth.blockscout.com/tx/0x7ef7b6f39e5aec4bab1655b3fc9f05a8ca62c8990326ad55be06ee2bcb4d2552) |
+| Feb 14 | WarpX | Swap USDT0→USDm | 1 USDT0 → ~0.9997 USDm | [0x331034f...](https://megaeth.blockscout.com/tx/0x331034f6c8e9911485dbeca1f220a0a83fc669fe1156a4f118721878ff82de7b) |
+| Feb 14 | Gains Network (gTrade) | Approve USDm | 2 exact | [0xe6187ff...](https://megaeth.blockscout.com/tx/0xe6187ff5386ef38d670ab91c2aac4dffc42239bc24cb72371d656f5d8fbedb2c) |
+| Feb 14 | Gains Network (gTrade) | Open BTC/USD Long | 2 USDm + 0.25 fee | [0x49baf9a...](https://megaeth.blockscout.com/tx/0x49baf9a8470da6160d62e0211979cd2d4ca99ee6645bf86f2b8e6d53727f2b14) |
