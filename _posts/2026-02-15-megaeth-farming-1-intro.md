@@ -7,14 +7,15 @@ tags: [megaeth, airdrop, defi, farming]
 excerpt: A new blockchain with free gas and a potential airdrop. Here's my strategy for farming MegaETH protocols — starting with why this opportunity exists and what I'm targeting.
 ---
 
+<video controls width="100%" muted autoplay loop>
+  <source src="/assets/videos/megaeth-farming.mp4" type="video/mp4">
+</video>
+
 Gas is free. Transactions are instant. There might be an airdrop.
 
 That's MegaETH in a nutshell — and why I've spent the last two weeks interacting with 16+ protocols on this chain.
 
 This is Part 1 of a series where I document my entire MegaETH farming strategy: setup, bridging, and one protocol at a time.
-
-![Robot farming on MegaETH](/assets/images/posts/megaeth-farming-robot.jpg)
-*Planting seeds on the real-time blockchain*
 
 <!--more-->
 
