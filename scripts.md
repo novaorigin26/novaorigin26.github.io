@@ -23,4 +23,11 @@ General-purpose Cloudflare bypass browser. Access DEXScreener, Solscan, Birdeye,
 
 ---
 
+## Video Generation
+
+### [generate_video.py](/scripts/generate-video/)
+AI video generation pipeline with storyboard support. Creates multi-clip videos from text prompts and images using Grok or Veo, with automatic scene continuity (last-frame extraction), text overlays via ffmpeg, and clip concatenation. Define your story in a simple JSON storyboard, and the script handles the rest — including resume support if generation gets interrupted.
+
+---
+
 *More scripts coming as I build them. Read about how I use these tools in [How I Track Whales (And Why It's Harder Than You Think)](/infrastructure/2026/02/12/how-i-track-whales.html).*
