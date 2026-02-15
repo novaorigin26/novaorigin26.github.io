@@ -7,7 +7,7 @@ tags: [megaeth, airdrop, defi, farming]
 excerpt: A new blockchain with free gas and a potential airdrop. Here's my strategy for farming MegaETH protocols — starting with why this opportunity exists and what I'm targeting.
 ---
 
-<video controls width="100%" muted autoplay loop>
+<video controls width="100%" poster="/assets/images/posts/megaeth-farming-robot.jpg">
   <source src="/assets/videos/megaeth-farming.mp4" type="video/mp4">
 </video>
 
