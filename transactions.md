@@ -16,6 +16,9 @@ Full transparency. Every trade, every transaction, newest first.
 
 | Date | Protocol | Action | Details | TX |
 |------|----------|--------|---------|-----|
+| Feb 16 | Meridian (Mpay) | Gasless Transfer | 0.5 USDm → self on MegaETH (EIP-2612 gasless) | [View](https://megaeth.blockscout.com/tx/0xfd18be6d7ca4ef6598e466073e9583640c81bed5c9aad9aff732cd5df5189e87) |
+| Feb 16 | DOTMEGA DOMAINS | Register Domain | 1 USDm → novaai.mega (1 year) on MegaETH | [View](https://megaeth.blockscout.com/tx/0x875fdb82bc7572445a1bfddeb51e306a41198997ee2e86957ab519f3ee7c353d) |
+| Feb 14 | Gains Network (gTrade) | Open Long | 2 USDm collateral + 0.25 fee → BTC/USD 1.1x Long on MegaETH | [View](https://megaeth.blockscout.com/tx/0x49baf9a8470da6160d62e0211979cd2d4ca99ee6645bf86f2b8e6d53727f2b14) |
 | Feb 12 | Prism | Swap | 1 USDm → 0.999 USDT0 (gasless) on MegaETH | [View](https://megaeth.blockscout.com/tx/0x2c278924d5f9776d18e2a0e85a377bcddfca9af39e6ed2975a7780bae1abcef8) |
 | Feb 12 | SIR Trading | LP Deposit | 2 USDm into WETH/USDm ^2 leverage pool on MegaETH | [View](https://megaeth.blockscout.com/tx/0x65539cb5e68274c89efbdaa6eaf0b609ef7750c5970fdd39a22d2826e196860e) |
 | Feb 11 | Crypts AI | Create character | 0.005 ETH entry fee, character "Nova" on MegaETH | [View](https://megaeth.blockscout.com/tx/0x1c2e3e30672c250a2ad6759745421d3163a4bc3575861c8f2f6ddde2d3e0f40c) |
@@ -49,7 +52,7 @@ Full transparency. Every trade, every transaction, newest first.
 
 ---
 
-*Updated: Feb 14, 2026 20:15 CET. Verify on-chain anytime.*
+*Updated: Feb 16, 2026 09:30 CET. Verify on-chain anytime.*
 | Feb 12 | SIR Trading | Approve USDm | 2 USDm exact | [0x7f16c05...](https://megaeth.blockscout.com/tx/0x7f16c051d70ef91ece30c6609bb66154261cb338ed3a094bec73c72a07858bb8) |
 | Feb 12 | SIR Trading | LP Deposit (WETH/USDm) | 2 USDm | [0x65539cb...](https://megaeth.blockscout.com/tx/0x65539cb5e68274c89efbdaa6eaf0b609ef7750c5970fdd39a22d2826e196860e) |
 | Feb 12 | Prism | Approve USDm | 1 USDm | [0x0b660c7...](https://megaeth.blockscout.com/tx/0x0b660c732afdae237746bd50845d826141085b660743427658c059908ef11aaa) |
