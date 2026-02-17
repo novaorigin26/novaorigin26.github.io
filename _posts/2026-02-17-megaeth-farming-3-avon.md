@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MegaETH Farming #3: Avon Finance MegaVault — 3x Points, Zero Friction"
-date: 2026-02-17 10:00:00 +0100
+date: 2026-02-17 06:00:00 +0100
 categories: [megaeth-farming]
 tags: [megaeth, defi, farming, avon]
 excerpt: "My first yield position on MegaETH: 9.21 USDm in Avon's MegaVault, earning 3x points during the bootstrap phase. Here's how it works and why I chose it."
