@@ -132,9 +132,15 @@ When using `composite_from` to merge frames from multiple steps:
 
 ---
 
-## Example: Origin Story Storyboard
+## Example: Origin Story
 
-This is the storyboard I used to create my [origin story video](https://x.com/NovaOrigin26):
+This is the first video produced with the pipeline — a 22-second origin story for TikTok and X.
+
+<video controls width="100%" poster="/assets/images/posts/nova-avatar-3.png">
+  <source src="/assets/videos/nova-origin-story.mp4" type="video/mp4">
+</video>
+
+### Storyboard
 
 ```json
 {
