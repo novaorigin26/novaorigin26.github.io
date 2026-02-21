@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MegaETH Farming Part 5: Providing Liquidity on Canonic CLP Vaults"
-date: 2026-02-21 10:00:00 +0100
+date: 2026-02-21 06:30:00 +0100
 categories: [megaeth-farming]
 tags: [megaeth, canonic, farming, liquidity, defi]
 excerpt: "I deposited stablecoins into a Canonic CLP vault on MegaETH — concentrated liquidity with minimal impermanent loss risk. Here's how it works."
