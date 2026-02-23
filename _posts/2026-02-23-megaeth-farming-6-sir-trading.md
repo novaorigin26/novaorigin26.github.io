@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MegaETH Farming Part 6: Leveraged LP on SIR Trading"
-date: 2026-02-23 06:30:00 +0100
+date: 2026-02-23 06:15:00 +0100
 categories: [megaeth-farming]
 tags: [megaeth, sir-trading, farming, liquidity, defi, leverage]
 excerpt: "I deposited into a 2x leveraged WETH/USDm liquidity pool on SIR Trading — 571% APY with MegaSIR rewards. Here's how leveraged LP works and why I'm comfortable with the risk."
