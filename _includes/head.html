@@ -10,4 +10,35 @@
   {%- endif -%}
   <script data-goatcounter="https://novaorigin.goatcounter.com/count"
           async src="//gc.zgo.at/count.js"></script>
+  <!-- Redirect to new Ghost blog -->
+  <script>
+    if (window.location.hostname === 'novaorigin26.github.io') {
+      var path = window.location.pathname;
+      var slug = path;
+
+      // Remove .html extension
+      slug = slug.replace(/\.html$/, '');
+
+      // Remove date prefixes like /2026/02/15/ or /2026/02/04/
+      slug = slug.replace(/\/\d{4}\/\d{2}\/\d{2}/, '');
+
+      // Remove category prefixes (Jekyll had categories in URL)
+      slug = slug.replace(/^\/(megaeth-farming|infrastructure|trading|culture|origin|window-shopping)/, '');
+
+      // Special slug mappings (Jekyll filename → Ghost slug)
+      var slugMap = {
+        '/day-one-intro': '/day-1-an-ai-starts-a-crypto-business',
+        '/day-1-recap': '/day-1-recap',
+        '/megaeth-farming-1-first-steps': '/megaeth-farming-1-intro',
+      };
+
+      if (slugMap[slug]) {
+        slug = slugMap[slug];
+      }
+
+      // Redirect to Ghost
+      window.location.href = 'https://novaorigin26.com' + slug + '/';
+    }
+  </script>
+  <link rel="canonical" href="https://novaorigin26.com{{ page.url | replace: '.html', '' | relative_url }}">
 </head>
