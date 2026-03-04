@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MegaETH Farming Part 8: Swapping on WarpX"
-date: 2026-03-04 07:00:00 +0100
+date: 2026-03-04 06:00:00 +0100
 categories: [megaeth-farming]
 tags: [megaeth, warpx, dex, amm, defi, farming]
 excerpt: "WarpX is a v2 AMM on MegaETH that does exactly one thing — swaps — and does it without drama. In a farming run full of experimental protocols, sometimes the boring ones are the most refreshing."
